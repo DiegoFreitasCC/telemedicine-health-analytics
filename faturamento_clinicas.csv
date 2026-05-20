@@ -1,0 +1,64 @@
+ID_Consulta,Data,Paciente,Especialidade,Modalidade,Valor_Consulta,Avaliacao_Estrelas
+1,2025-02-17,Victor,Cardiologia,Online,R$ 181.0,1.0
+2,2025-03-23,Jaque Maria,Ortopedia,Online,R$ 146.0,4.0
+3,2025-01-02,Fernanda Costa,Cardiologia,Online,R$ 198.0,2.0
+4,2025-05-05,Fernanda Costa,Dermatologia,Online,R$ 194.0,4.0
+5,2025-02-09,Pamera Freitas,Clínica Médica,Online,R$ 184.0,2.0
+6,2025-04-29,Ana Lima,Cardiologia,Online,,2.0
+7,2025-02-23,Marcos Pereira,Pediatria,Online,R$ 130.0,3.0
+8,2025-01-29,Pamera Freitas,Pediatria,Online,R$ 157.0,2.0
+9,2025-02-15,Pamera Freitas,Dermatologia,Presencial,R$ 219.0,1.0
+10,2025-01-19,Jaque Maria,Ortopedia,Presencial,R$ 210.0,5.0
+11,2025-01-04,Roberto Carlos,Ortopedia,Presencial,R$ 218.0,2.0
+12,2025-01-07,Juliana Alves,Ortopedia,Online,R$ 138.0,5.0
+13,2025-02-09,Pamera Freitas,Dermatologia,Online,R$ 135.0,
+14,2025-05-25,Ana Lima,Ortopedia,Presencial,R$ 241.0,1.0
+15,2025-01-09,Jaque Maria,Dermatologia,Presencial,R$ 233.0,1.0
+16,2025-05-29,Juliana Alves,Dermatologia,Presencial,R$ 246.0,5.0
+17,2025-02-06,Marcos Pereira,Cardiologia,Online,R$ 150.0,3.0
+18,2025-03-13,Diego Freitas,Pediatria,Presencial,R$ 217.0,4.0
+19,2025-03-17,Marcos Pereira,Clínica Médica,Presencial,R$ 220.0,3.0
+20,2025-05-08,Fernanda Costa,Pediatria,Presencial,R$ 203.0,3.0
+21,2025-04-27,Fernanda Costa,Cardiologia,Presencial,R$ 225.0,4.0
+22,2025-04-11,Fernanda Costa,Clínica Médica,Presencial,R$ 195.0,4.0
+23,2025-03-02,Diego Freitas,Cardiologia,Online,R$ 191.0,3.0
+24,2025-04-03,Marcos Pereira,Clínica Médica,Presencial,R$ 208.0,4.0
+25,2025-01-11,Jaque Maria,Clínica Médica,Online,R$ 174.0,3.0
+26,2025-01-16,Carlos Souza,Dermatologia,Online,R$ 162.0,2.0
+27,2025-04-12,Carlos Souza,Ortopedia,Presencial,R$ 201.0,1.0
+28,2025-05-13,Fernanda Costa,Cardiologia,Presencial,R$ 248.0,5.0
+29,2025-01-31,Jaque Maria,Cardiologia,Online,R$ 158.0,1.0
+30,2025-05-05,Roberto Carlos,Ortopedia,Presencial,R$ 243.0,1.0
+31,2025-01-24,Marcos Pereira,Cardiologia,Presencial,R$ 217.0,3.0
+32,2025-01-31,Marcos Pereira,Ortopedia,Online,R$ 195.0,2.0
+33,2025-04-24,Fernanda Costa,Pediatria,Online,R$ 177.0,1.0
+34,2025-05-29,Juliana Alves,Cardiologia,Online,R$ 151.0,2.0
+35,2025-02-23,Marcos Pereira,Ortopedia,Presencial,R$ 228.0,3.0
+36,2025-05-04,Victor,Dermatologia,Online,R$ 189.0,1.0
+37,2025-01-14,Pamera Freitas,Ortopedia,Online,R$ 197.0,3.0
+38,2025-03-10,Juliana Alves,Ortopedia,Online,R$ 141.0,1.0
+39,2025-03-04,Juliana Alves,Cardiologia,Presencial,R$ 225.0,5.0
+40,2025-02-04,Carlos Souza,Ortopedia,Presencial,R$ 187.0,5.0
+41,2025-03-05,Carlos Souza,Pediatria,Online,R$ 161.0,5.0
+42,2025-03-05,Pamera Freitas,Pediatria,Presencial,R$ 191.0,1.0
+43,2025-02-17,Fernanda Costa,Pediatria,Presencial,R$ 206.0,3.0
+44,2025-03-02,Carlos Souza,Dermatologia,Presencial,R$ 183.0,5.0
+45,2025-03-18,Victor,Pediatria,Online,R$ 130.0,4.0
+46,2025-05-26,Victor,Ortopedia,Online,,2.0
+47,2025-04-25,Pamera Freitas,Clínica Médica,Presencial,R$ 241.0,3.0
+48,2025-05-05,Pamera Freitas,Cardiologia,Online,R$ 134.0,3.0
+49,2025-05-04,Ana Lima,Clínica Médica,Presencial,R$ 202.0,4.0
+50,2025-03-08,Pamera Freitas,Pediatria,Presencial,R$ 224.0,3.0
+51,2025-03-30,Ana Lima,Cardiologia,Presencial,R$ 210.0,3.0
+52,2025-03-27,Juliana Alves,Dermatologia,Presencial,R$ 224.0,5.0
+53,2025-01-01,Fernanda Costa,Dermatologia,Presencial,R$ 250.0,5.0
+54,2025-05-29,Fernanda Costa,Dermatologia,Online,R$ 167.0,2.0
+55,2025-01-29,Carlos Souza,Ortopedia,Online,R$ 195.0,5.0
+56,2025-04-11,Marcos Pereira,Pediatria,Online,R$ 174.0,1.0
+57,2025-04-14,Fernanda Costa,Dermatologia,Online,R$ 175.0,5.0
+58,2025-05-30,Juliana Alves,Cardiologia,Online,R$ 188.0,5.0
+59,2025-01-17,Pamera Freitas,Cardiologia,Online,R$ 164.0,3.0
+60,2025-02-03,Fernanda Costa,Clínica Médica,Presencial,R$ 196.0,1.0
+11,2025-01-04,Roberto Carlos,Ortopedia,Presencial,R$ 218.0,2.0
+26,2025-01-16,Carlos Souza,Dermatologia,Online,R$ 162.0,2.0
+31,2025-01-24,Marcos Pereira,Cardiologia,Presencial,R$ 217.0,3.0
